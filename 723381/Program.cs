@@ -8,6 +8,7 @@ namespace _723381_2
 {
     class Program
     {
+        static int i = 0;
         static void Main(string[] args)
         {
             MethodA();
